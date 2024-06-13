@@ -19,7 +19,11 @@
     font-size: 18px !important;
     font-weight: 500;
   }
-  
+
+ul {
+    list-style-type: none;
+  }
+
   .hero-section {
     background-image: url(/assets/background.jpg);
     background-position: center;
